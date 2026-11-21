@@ -1,4 +1,4 @@
-# AI LLM Class 11 - Mini Semantic Search
+# Mini Semantic Search
 
 ## Project Description
 
